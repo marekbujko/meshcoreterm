@@ -4,7 +4,7 @@ Would be nice if you support me: https://buymeacoffee.com/bmks — thank you ver
 # Firmware "MC Term"
 Finally there is a name, "MC Term", M(esh)C(ore) Term(inal). We like Retro, you like Retro, we stay retro :-).
 
-# v0.9.12.2 released for all supported devices (no online update!)
+# v0.9.12.3 released for all supported devices (no online update!)
 
 # MeshCore / additional GUIs for embedded mesh radios
 
