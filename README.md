@@ -4,7 +4,7 @@ Would be nice if you support me: https://buymeacoffee.com/bmks — thank you ver
 # Firmware "MC Term"
 Finally there is a name, "MC Term", M(esh)C(ore) Term(inal). We like Retro, you like Retro, we stay retro :-).
 
-# v0.9.12.3 released for all supported devices (no online update!)
+# v0.9.13 released for all supported devices (no online update!)
 
 # MeshCore / additional GUIs for embedded mesh radios
 
@@ -46,9 +46,9 @@ This firmware includes companion UIs and support for several devices; notable ex
 
 - LilyGO T-Deck / T-Deck Plus — more details: https://lilygo.cc/en-us/products/t-deck-plus-1
 - Seeed Studio SenseCap Indicator (TFT / D1Pro) — more details: https://www.seeedstudio.com/
-# SOON
-- Heltec V4 with Display! (v0.9.11) (WIP)
-- Elecrow with 3.5 Display! (v0.9.11) (WIP) -> https://www.elecrow.com/pub/wiki/CrowPanel_Advance_3.5-HMI_ESP32_AI_Display.html
+- Heltec V4 with Display!
+- Elecrow with 3.5 Display! -> https://www.elecrow.com/pub/wiki/CrowPanel_Advance_3.5-HMI_ESP32_AI_Display.html
+- Elecrow with 7 Display! -> https://www.elecrow.com/crowpanel-advanced-7inch-esp32-p4-hmi-ai-display-1024x600-ips-touch-screen-with-wifi-6-compatible-with-arduino-lvgl-micropython.html
 
 ## Installation
 
